@@ -3372,3 +3372,8 @@ AttributeError: 'dict' object has no attribute 'empty'
 2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
 2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
 2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:21:51 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:21:51 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:21:51 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:21:51 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:21:51 - __main__ - INFO - Successfully fetched data for AAPL
