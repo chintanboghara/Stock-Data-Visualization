@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  stock-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    restart: unless-stopped
+    container_name: stock-data-visualization-app
+    environment:
+      - PYTHONUNBUFFERED=1
