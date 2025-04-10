@@ -853,3 +853,2522 @@ AttributeError: 'dict' object has no attribute 'index'
 2025-04-10 03:44:27 - root - INFO - Logging initialized at level INFO
 2025-04-10 03:44:27 - root - INFO - Logging initialized at level INFO
 2025-04-10 03:44:27 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:03:59 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:00 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:04:00 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:04:00 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:04:00 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:04:18 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:18 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:18 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:18 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:26 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:26 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:26 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:26 - __main__ - INFO - Fetching stock summary for GOOGLE with period 1y
+2025-04-10 04:04:26 - __main__ - INFO - Fetching stock summary for GOOGLE with period 1y
+2025-04-10 04:04:26 - __main__ - INFO - Fetching stock summary for GOOGLE with period 1y
+2025-04-10 04:04:26 - src.api.stock_api - INFO - Generating complete stock summary for GOOGLE
+2025-04-10 04:04:26 - src.api.stock_api - INFO - Generating complete stock summary for GOOGLE
+2025-04-10 04:04:26 - src.api.stock_api - INFO - Generating complete stock summary for GOOGLE
+2025-04-10 04:04:26 - src.api.stock_api - INFO - API request for stock data: GOOGLE, period: 1y
+2025-04-10 04:04:26 - src.api.stock_api - INFO - API request for stock data: GOOGLE, period: 1y
+2025-04-10 04:04:26 - src.api.stock_api - INFO - API request for stock data: GOOGLE, period: 1y
+2025-04-10 04:04:26 - src.utils.stock_data - INFO - Fetching stock data for GOOGLE with period 1y
+2025-04-10 04:04:26 - src.utils.stock_data - INFO - Fetching stock data for GOOGLE with period 1y
+2025-04-10 04:04:26 - src.utils.stock_data - INFO - Fetching stock data for GOOGLE with period 1y
+2025-04-10 04:04:31 - yfinance - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/GOOGLE?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=GOOGLE&crumb=eeQwz5ygWIA
+2025-04-10 04:04:31 - yfinance - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/GOOGLE?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=GOOGLE&crumb=eeQwz5ygWIA
+2025-04-10 04:04:31 - yfinance - ERROR - 404 Client Error: Not Found for url: https://query2.finance.yahoo.com/v10/finance/quoteSummary/GOOGLE?modules=financialData%2CquoteType%2CdefaultKeyStatistics%2CassetProfile%2CsummaryDetail&corsDomain=finance.yahoo.com&formatted=false&symbol=GOOGLE&crumb=eeQwz5ygWIA
+2025-04-10 04:04:31 - src.utils.stock_data - ERROR - Error fetching stock data for GOOGLE: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.utils.stock_data - ERROR - Error fetching stock data for GOOGLE: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.utils.stock_data - ERROR - Error fetching stock data for GOOGLE: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: Error fetching data for GOOGLE: Failed to fetch stock data: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: Error fetching data for GOOGLE: Failed to fetch stock data: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: Error fetching data for GOOGLE: Failed to fetch stock data: 'NoneType' object has no attribute 'update'
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: No valid stock data available.
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: No valid stock data available.
+2025-04-10 04:04:31 - src.components.layout - ERROR - Application error: No valid stock data available.
+2025-04-10 04:04:39 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:39 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:39 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:39 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:39 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:39 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:39 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:39 - src.components.layout - ERROR - Application error: Invalid symbol '': Stock symbol cannot be empty
+2025-04-10 04:04:53 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:53 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:53 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:53 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:53 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:04:53 - __main__ - INFO - Fetching stock summary for AB with period 1y
+2025-04-10 04:04:53 - __main__ - INFO - Fetching stock summary for AB with period 1y
+2025-04-10 04:04:53 - __main__ - INFO - Fetching stock summary for AB with period 1y
+2025-04-10 04:04:53 - __main__ - INFO - Fetching stock summary for AB with period 1y
+2025-04-10 04:04:53 - __main__ - INFO - Fetching stock summary for AB with period 1y
+2025-04-10 04:04:53 - src.api.stock_api - INFO - Generating complete stock summary for AB
+2025-04-10 04:04:53 - src.api.stock_api - INFO - Generating complete stock summary for AB
+2025-04-10 04:04:53 - src.api.stock_api - INFO - Generating complete stock summary for AB
+2025-04-10 04:04:53 - src.api.stock_api - INFO - Generating complete stock summary for AB
+2025-04-10 04:04:53 - src.api.stock_api - INFO - Generating complete stock summary for AB
+2025-04-10 04:04:53 - src.api.stock_api - INFO - API request for stock data: AB, period: 1y
+2025-04-10 04:04:53 - src.api.stock_api - INFO - API request for stock data: AB, period: 1y
+2025-04-10 04:04:53 - src.api.stock_api - INFO - API request for stock data: AB, period: 1y
+2025-04-10 04:04:53 - src.api.stock_api - INFO - API request for stock data: AB, period: 1y
+2025-04-10 04:04:53 - src.api.stock_api - INFO - API request for stock data: AB, period: 1y
+2025-04-10 04:04:53 - src.utils.stock_data - INFO - Fetching stock data for AB with period 1y
+2025-04-10 04:04:53 - src.utils.stock_data - INFO - Fetching stock data for AB with period 1y
+2025-04-10 04:04:53 - src.utils.stock_data - INFO - Fetching stock data for AB with period 1y
+2025-04-10 04:04:53 - src.utils.stock_data - INFO - Fetching stock data for AB with period 1y
+2025-04-10 04:04:53 - src.utils.stock_data - INFO - Fetching stock data for AB with period 1y
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for company info: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for company info: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for company info: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for company info: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for company info: AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched company info for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Successfully fetched company info for AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for financial data: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for financial data: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for financial data: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for financial data: AB
+2025-04-10 04:04:54 - src.api.stock_api - INFO - API request for financial data: AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching financial data for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching financial data for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching financial data for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching financial data for AB
+2025-04-10 04:04:54 - src.utils.stock_data - INFO - Fetching financial data for AB
+2025-04-10 04:04:55 - src.utils.stock_data - INFO - Successfully fetched financial data for AB
+2025-04-10 04:04:55 - src.utils.stock_data - INFO - Successfully fetched financial data for AB
+2025-04-10 04:04:55 - src.utils.stock_data - INFO - Successfully fetched financial data for AB
+2025-04-10 04:04:55 - src.utils.stock_data - INFO - Successfully fetched financial data for AB
+2025-04-10 04:04:55 - src.utils.stock_data - INFO - Successfully fetched financial data for AB
+2025-04-10 04:04:55 - src.api.stock_api - INFO - Successfully generated stock summary for AB
+2025-04-10 04:04:55 - src.api.stock_api - INFO - Successfully generated stock summary for AB
+2025-04-10 04:04:55 - src.api.stock_api - INFO - Successfully generated stock summary for AB
+2025-04-10 04:04:55 - src.api.stock_api - INFO - Successfully generated stock summary for AB
+2025-04-10 04:04:55 - src.api.stock_api - INFO - Successfully generated stock summary for AB
+2025-04-10 04:04:55 - __main__ - INFO - Successfully fetched data for AB
+2025-04-10 04:04:55 - __main__ - INFO - Successfully fetched data for AB
+2025-04-10 04:04:55 - __main__ - INFO - Successfully fetched data for AB
+2025-04-10 04:04:55 - __main__ - INFO - Successfully fetched data for AB
+2025-04-10 04:04:55 - __main__ - INFO - Successfully fetched data for AB
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:10 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:13 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:28 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:30 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:31 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:32 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Unhandled application error: 'dict' object has no attribute 'empty'
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - __main__ - ERROR - Traceback (most recent call last):
+  File "/app/app.py", line 163, in main
+    render_stock_comparison(stock_data_dict)
+  File "/app/src/components/metrics.py", line 147, in render_stock_comparison
+    fig = create_comparison_chart(stock_data_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/src/utils/visualization.py", line 101, in create_comparison_chart
+    if not data.empty:
+           ^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'empty'
+
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:35 - src.components.layout - ERROR - Application error: An unexpected error occurred.
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:37 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Successfully fetched 251 data points for MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:38 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Successfully fetched data for MSFT
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:39 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched 251 data points for GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:40 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-04-10 04:05:41 - __main__ - INFO - Successfully fetched data for GOOGL
