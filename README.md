@@ -1,4 +1,4 @@
-# Stock Data Visualization Application
+# Stock Data Visualization
 
 A modern, interactive web application for visualizing stock data from Yahoo Finance. Built with Python, Streamlit, and Plotly.
 
@@ -50,8 +50,9 @@ The application follows a production-grade architecture with proper separation o
 ### Using Docker
 
 1. Build the Docker image: `docker-compose build`
-2. Run the container: `docker-compose up`
+2. Run the container: `docker-compose up -d`
 3. Access the application at http://localhost:5000
+4. Down the container: `docker-compose down --rmi all`
 
 ## Features Usage
 
@@ -66,18 +67,6 @@ The application follows a production-grade architecture with proper separation o
 - View percentage change comparison chart
 - Analyze performance metrics for each stock
 
-## Future Enhancements
-
-- Technical indicators (Moving Averages, RSI, MACD)
-- Portfolio tracking and analysis
-- News integration for relevant stock events
-- User accounts to save favorite stocks and custom views
-- Advanced filtering and screening options
-
 ## Data Sources
 
 This application fetches all data from Yahoo Finance via the yfinance library. The application does not store any financial data locally other than for temporary caching purposes.
-
-## License
-
-MIT License
