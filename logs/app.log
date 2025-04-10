@@ -3377,3 +3377,139 @@ AttributeError: 'dict' object has no attribute 'empty'
 2025-04-10 04:21:51 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
 2025-04-10 04:21:51 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
 2025-04-10 04:21:51 - __main__ - INFO - Successfully fetched data for AAPL
+2025-04-10 04:23:06 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:06 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:06 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:06 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:06 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:06 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:06 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:06 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:06 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:06 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:07 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:07 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:07 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:07 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:07 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:07 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:07 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:07 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:07 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:07 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:07 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:07 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:07 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:07 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:07 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:08 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:09 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:09 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:09 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:29 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:29 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:29 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:29 - root - INFO - Logging initialized at level INFO
+2025-04-10 04:23:29 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:23:29 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:23:29 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:23:29 - src.cache.cache_manager - INFO - Cache cleared successfully
+2025-04-10 04:23:29 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:29 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:29 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:29 - __main__ - INFO - Fetching stock summary for AC with period 1y
+2025-04-10 04:23:29 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - Generating complete stock summary for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for stock data: AC, period: 1y
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching stock data for AC with period 1y
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched 251 data points for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for company info: AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Successfully fetched company info for AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:29 - src.api.stock_api - INFO - API request for financial data: AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:29 - src.utils.stock_data - INFO - Fetching financial data for AC
+2025-04-10 04:23:30 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:30 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:30 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:30 - src.utils.stock_data - INFO - Successfully fetched financial data for AC
+2025-04-10 04:23:30 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:30 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:30 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:30 - src.api.stock_api - INFO - Successfully generated stock summary for AC
+2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
+2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
