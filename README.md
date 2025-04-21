@@ -1,3 +1,5 @@
+[![Build and Push Docker Image](https://github.com/chintanboghara/Stock-Data-Visualization/actions/workflows/build-and-push-docker-image.yml/badge.svg?branch=main)](https://github.com/chintanboghara/Stock-Data-Visualization/actions/workflows/build-and-push-docker-image.yml)
+
 # Stock Data Visualization
 
 A modern, interactive web application for visualizing stock data from Yahoo Finance. Built with Python, Streamlit, and Plotly.
