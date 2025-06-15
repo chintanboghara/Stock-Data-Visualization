@@ -3513,3 +3513,131 @@ AttributeError: 'dict' object has no attribute 'empty'
 2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
 2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
 2025-04-10 04:23:30 - __main__ - INFO - Successfully fetched data for AC
+2025-06-15 05:54:04 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:04 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-06-15 05:54:04 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-06-15 05:54:04 - src.api.stock_api - INFO - API request for stock data: AAPL, period: 1y
+2025-06-15 05:54:04 - src.utils.stock_data - INFO - Fetching stock data for AAPL with period 1y
+2025-06-15 05:54:06 - src.utils.stock_data - INFO - Successfully fetched 250 data points for AAPL
+2025-06-15 05:54:06 - src.api.stock_api - INFO - API request for company info: AAPL
+2025-06-15 05:54:06 - src.utils.stock_data - INFO - Fetching company info for AAPL
+2025-06-15 05:54:07 - src.utils.stock_data - INFO - Successfully fetched company info for AAPL
+2025-06-15 05:54:07 - src.api.stock_api - INFO - API request for financial data: AAPL
+2025-06-15 05:54:07 - src.utils.stock_data - INFO - Fetching financial data for AAPL
+2025-06-15 05:54:09 - src.utils.stock_data - INFO - Successfully fetched financial data for AAPL
+2025-06-15 05:54:09 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-06-15 05:54:09 - __main__ - INFO - Successfully fetched data for AAPL
+2025-06-15 05:54:16 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:16 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:16 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-06-15 05:54:16 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-06-15 05:54:16 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-06-15 05:54:16 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-06-15 05:54:16 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-06-15 05:54:16 - src.api.stock_api - INFO - API request for stock data: MSFT, period: 1y
+2025-06-15 05:54:16 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-06-15 05:54:16 - src.utils.stock_data - INFO - Fetching stock data for MSFT with period 1y
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Successfully fetched 250 data points for MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Successfully fetched 250 data points for MSFT
+2025-06-15 05:54:17 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-06-15 05:54:17 - src.api.stock_api - INFO - API request for company info: MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Fetching company info for MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Successfully fetched company info for MSFT
+2025-06-15 05:54:17 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-06-15 05:54:17 - src.api.stock_api - INFO - API request for financial data: MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-06-15 05:54:17 - src.utils.stock_data - INFO - Fetching financial data for MSFT
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Successfully fetched financial data for MSFT
+2025-06-15 05:54:18 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-06-15 05:54:18 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-06-15 05:54:18 - __main__ - INFO - Successfully fetched data for MSFT
+2025-06-15 05:54:18 - __main__ - INFO - Successfully fetched data for MSFT
+2025-06-15 05:54:18 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-06-15 05:54:18 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-06-15 05:54:18 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-06-15 05:54:18 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-06-15 05:54:18 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-06-15 05:54:18 - src.api.stock_api - INFO - API request for stock data: GOOGL, period: 1y
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Fetching stock data for GOOGL with period 1y
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Successfully fetched 250 data points for GOOGL
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Successfully fetched 250 data points for GOOGL
+2025-06-15 05:54:18 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-06-15 05:54:18 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-06-15 05:54:18 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-06-15 05:54:19 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:19 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:19 - root - INFO - Logging initialized at level INFO
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for AAPL with period 1y
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for AAPL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for AAPL
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for AAPL
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for AAPL
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for AAPL
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for MSFT with period 1y
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for MSFT
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Successfully generated stock summary for MSFT
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for MSFT
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for MSFT
+2025-06-15 05:54:19 - __main__ - INFO - Successfully fetched data for MSFT
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-06-15 05:54:19 - __main__ - INFO - Fetching stock summary for GOOGL with period 1y
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - Generating complete stock summary for GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for company info: GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Successfully fetched company info for GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.api.stock_api - INFO - API request for financial data: GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:19 - src.utils.stock_data - INFO - Fetching financial data for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.utils.stock_data - INFO - Successfully fetched financial data for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - src.api.stock_api - INFO - Successfully generated stock summary for GOOGL
+2025-06-15 05:54:20 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-06-15 05:54:20 - __main__ - INFO - Successfully fetched data for GOOGL
+2025-06-15 05:54:20 - __main__ - INFO - Successfully fetched data for GOOGL
